@@ -14,4 +14,4 @@ Imported an Excel file of NCAA 10k and 5k track times from 2010-2019. Cleaned da
 This was a 5 semester project I completed over time as a Masters student at Texas A&M University. The goal was to build a predictive model using whatever resources or skills we had available. Without knowing any python, I challenged myself to complete this analysis and predicitve model using only python programming and ultimately came out of it with not only a decent model, but more importantly-a whole host of programming skills.
 
 # Final Capstone Presentation
-See attached powerpoint for final presentation and analysis.
+If you are interested in the final product and analysis, please see the link to download the final powerpoint presentation.
